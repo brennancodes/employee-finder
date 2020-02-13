@@ -1,0 +1,72 @@
+[
+	{
+		"id": 1,
+		"firstName": "Bob",
+		"lastName": "Saget",
+		"position": "Manager",
+		"salary": 80000
+	},
+	{
+		"id": 2,
+		"firstName": "Will",
+		"lastName": "Smith",
+		"position": "Salesman",
+		"salary": 60000
+	},
+	{
+		"id": 3,
+		"firstName": "Lebron",
+		"lastName": "James",
+		"position": "Custodian",
+		"salary": 9.50
+	},
+	{
+		"id": 4,
+		"firstName": "Kirk",
+		"lastName": "Cousins",
+		"position": "Salesman",
+		"salary": 60000
+	},
+	{
+		"id": 5,
+		"firstName": "Alpha",
+		"lastName": "Kennybody",
+		"position": "Salesman",
+		"salary": 60000
+	},
+	{
+		"id": 6,
+		"firstName": "Jaden",
+		"lastName": "Smith",
+		"position": "Customer Service",
+		"salary": 40000
+	},
+	{
+		"id": 7,
+		"firstName": "J.G.",
+		"lastName": "Wentworth",
+		"position": "Salesman",
+		"salary": 60000
+	},
+	{
+		"id": 8,
+		"firstName": "Pam",
+		"lastName": "Beesly",
+		"position": "Customer Service",
+		"salary": 60000
+	},
+	{
+		"id": 9,
+		"firstName": "Michael",
+		"lastName": "Scott",
+		"position": "Manager",
+		"salary": 80000
+	},
+	{
+		"id": 10,
+		"firstName": "Brennan",
+		"lastName": "Spicer",
+		"position": "CEO",
+		"salary": 1000001
+	}
+]
